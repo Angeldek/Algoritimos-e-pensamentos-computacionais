@@ -15,10 +15,10 @@ A linguagem utilizada ao longo da disciplina é a linguagem C, uma das mais clá
 📁 Estrutura do repositório
 
 |  |  | 
-| exercicios/ |  | 
-| projetos/ |  | 
-| algoritmos/ |  | 
-| documentacao/ |  | 
+| exercicios |  | 
+| projetos |  | 
+| algoritmos |  | 
+| documentacao |  | 
 | README.md |  | 
 
 
@@ -32,5 +32,7 @@ A linguagem utilizada ao longo da disciplina é a linguagem C, uma das mais clá
 
 Luisângel Silva
 Curso: Análise e Desenvolvimento de Sistemas – 1º semestre
+
 Instituição: UDF
+
 Contato: angelschalcher@hotmail.com
