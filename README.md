@@ -28,6 +28,8 @@ A linguagem utilizada ao longo da disciplina é a linguagem C, uma das mais clá
 - Compiladores: GCC / Dev-C++ / Code::Blocks
 - Editor: Visual Studio Code
 
+👨‍🏫 Professor(a) Karla Roberto Sartin
+
 👤 Autor
 
 Luisângel Silva
