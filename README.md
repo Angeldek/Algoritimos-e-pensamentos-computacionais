@@ -15,10 +15,9 @@ A linguagem utilizada ao longo da disciplina é a linguagem C, uma das mais clá
 📁 Estrutura do repositório
 
 |  |  | 
-| exercicios |  | 
-| projetos |  | 
-| algoritmos |  | 
-| documentacao |  | 
+| Atividades |  | 
+| Aulas |  | 
+| Projetos |  |  
 | README.md |  | 
 
 
